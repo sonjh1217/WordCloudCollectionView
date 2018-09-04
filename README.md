@@ -61,9 +61,9 @@ let topicString =
 
 ```swift
 let maxFontSize:CGFloat = 36
-            let minFontSize:CGFloat = 12
-            let maxAlpha:CGFloat = 1
-            let minAlpha:CGFloat = 0.5
+let minFontSize:CGFloat = 12
+let maxAlpha:CGFloat = 1
+let minAlpha:CGFloat = 0.5
 ```
 
 ## Author
